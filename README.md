@@ -15,8 +15,21 @@
 <img src="https://img.shields.io/badge/-linux-FFBF00?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux">
 </p>
 
+<h3>my projects :</h3>
+<p>
+  <p>
+    <a href="https://jerjisp.ir" target="_blank">پایگاه فرهنگی جرجیس پیامبر (ع)</a>
+    <a href="https://jerjisp.ir" target="_blank">jerjisp.ir</a>
+  </p>
+  <p>
+    <a href="https://exjamali.com" target="_blank">صرافی جمالی</a>
+    <a href="https://exjamali.com" target="_blank">exjamali.com</a>
+  </p>
+</p>
 
-<h3>me on Social Network :</h3>
+
+
+<h4>me on Social Network :</h4>
 
 <p>
 <a href="https://github.com/ali09100">
